@@ -1,4 +1,4 @@
-sentence = input("Enter your sentence").split()
+sentence = input("Enter your sentence: ").split()
 
 unique_words = {word : sentence.count(word) for word in sentence}
 
