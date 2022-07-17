@@ -6,8 +6,10 @@ print("Welcome to the Contacts v1.0!")
 
 # Contact should contain name, email, phone, address (optional) and notes (optional)
 contacts = [
-    ('Janice Thomas', 'janice.thomas@example.com', '(272) 569-4415', '2745 Thornridge Cir', None),
-    ('Cassandra Burton', 'cassandra.burton@example.com', '(629) 326-8652', None, None),
+    ('Janice Thomas', 'janice.thomas@example.com', '(272) 569-4415',
+     '2745 Thornridge Cir', None),
+    ('Cassandra Burton', 'cassandra.burton@example.com', '(629) 326-8652',
+     None, None),
 ]
 
 while True:
@@ -62,7 +64,8 @@ q - quit from app
         console = Console()
         console.print(table)
     elif action == "d":
-        del_contact = input("Enter name of contact that you want delete or 'cancel': ")
+        del_contact = input(
+            "Enter name of contact that you want delete or 'cancel': ")
         if del_contact == "cancel":
             continue
         else:
