@@ -15,6 +15,8 @@ def test():
     name.seek(0)
     chars = count_chars(name)
     
+    name.close()
+    
     return f"""Number of lines in the file: {lines}
 Number of characters in the file: {chars}"""
 
