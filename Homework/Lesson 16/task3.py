@@ -11,7 +11,7 @@ class Product:
 class ProductStore:
     
     def __init__(self, product_list = [], total_sale = 0):
-        self.product_list = product_list
+        self.product_list = []
         self.total_sale = total_sale
  
     def add(self, product, amount=0):
