@@ -1,0 +1,42 @@
+[
+  {
+    "first_name": "Jery",
+    "last_name": "Thomas",
+    "full_name": "Jery Thomas",
+    "phone_number": "098 888 88 88",
+    "email": "janice.thomas@example.com",
+    "city": "Kyiv",
+    "notes": "test test",
+    "id": "441cbeea-b83f-46d0-924e-2069379d8102"
+  },
+  {
+    "first_name": "Toni",
+    "last_name": "Beck",
+    "full_name": "Toni Beck",
+    "phone_number": "(791) 948-4806",
+    "email": "toni.beck@example.com",
+    "city": "Kyiv",
+    "notes": "cornell",
+    "id": "70cced42-d8d6-4555-8f45-ea2bb8128b93"
+  },
+  {
+    "first_name": "Claude",
+    "last_name": "Scott",
+    "full_name": "Claude Scott",
+    "phone_number": "(424) 319-5337",
+    "email": "claude.scott@example.com",
+    "city": "9425 W Sherman Dr",
+    "notes": null,
+    "id": "7ef26678-0bf4-496e-b714-60b96078b643"
+  },
+  {
+    "first_name": "Vitalii",
+    "last_name": "Fedun",
+    "full_name": "Vitalii Fedun",
+    "phone_number": "0988888888",
+    "email": "defe@vreb.vv",
+    "city": "Odesa",
+    "notes": "nothing",
+    "id": "b6030174-730f-4af4-b510-d668a4dc69d1"
+  }
+]

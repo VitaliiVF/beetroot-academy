@@ -1,32 +1,32 @@
 [
-  {
-    "id": "441cbeea-b83f-46d0-924e-2069379d8102",
-    "first name": "Janice",
-    "last name": "Thomas",
-    "full name": "Janice Thomas",
-    "phone number": "098 888 88 88",
-    "email": "janice.thomas@example.com",
-    "city": "Odesa",
-    "notes": "test test"
-  },
-  {
-    "id": "70cced42-d8d6-4555-8f45-ea2bb8128b93",
-    "first name": "Toni",
-    "last name": "Beck",
-    "full name": "Toni Beck",
-    "phone number": "(791) 948-4806",
-    "email": "toni.beck@example.com",
-    "city": "Kyiv",
-    "notes": "cornell"
-  },
-  {
-    "id": "7ef26678-0bf4-496e-b714-60b96078b643",
-    "first name": "Claude",
-    "last name": "Scott",
-    "full name": "Claude Scott",
-    "phone number": "(424) 319-5337",
-    "email": "claude.scott@example.com",
-    "city": "9425 W Sherman Dr",
-    "notes": null
-  }
-]
+    {
+      "id": "441cbeea-b83f-46d0-924e-2069379d8102",
+      "first name": "Janice",
+      "last name": "Thomas",
+      "full name": "Janice Thomas",
+      "phone number": "098 888 88 88",
+      "email": "janice.thomas@example.com",
+      "city": "Odesa",
+      "notes": "test test"
+    },
+    {
+      "id": "70cced42-d8d6-4555-8f45-ea2bb8128b93",
+      "first name": "Toni",
+      "last name": "Beck",
+      "full name": "Toni Beck",
+      "phone number": "(791) 948-4806",
+      "email": "toni.beck@example.com",
+      "city": "Kyiv",
+      "notes": "cornell"
+    },
+    {
+      "id": "7ef26678-0bf4-496e-b714-60b96078b643",
+      "first name": "Claude",
+      "last name": "Scott",
+      "full name": "Claude Scott",
+      "phone number": "(424) 319-5337",
+      "email": "claude.scott@example.com",
+      "city": "9425 W Sherman Dr",
+      "notes": null
+    }
+  ]
