@@ -1,0 +1,2 @@
+Run #1 without errors
+Run #2 error - <class 'AttributeError'>!!!
